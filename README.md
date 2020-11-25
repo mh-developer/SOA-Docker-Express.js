@@ -23,7 +23,7 @@ For creating Docker image and run Docker container we need to run following comm
 - `docker run -p 3000:3000  mh7860/vaja5docker:1.0`
 
 
-We have publish Docker container on Docker Hub:
+We have publish Docker image on Docker Hub:
 
 - https://hub.docker.com/r/mh7860/vaja5docker
 
